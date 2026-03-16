@@ -1,0 +1,15 @@
+{
+  "name": "Athens County Public Libraries",
+  "slug": "athenscounty",
+  "easId": "8bca72fb-3c91-489f-acfd-bc0bf32c156e",
+  "reverseDns": "org.aspendiscovery.athenscounty",
+  "discoveryUrl": "https://athenscounty.aspendiscovery.org/",
+  "greenhouseUrl": "https://athenscounty.aspendiscovery.org/",
+  "libraryId": "1",
+  "themeId": "1",
+  "background": "#ffffff",
+  "sentryProject": "aspen-lida-athenscounty",
+  "sentryDsn": "https://884f70908372fb3ff1afc24f00c9c613@o994439.ingest.us.sentry.io/4508456773025792",
+  "ascAppId": "6741689582",
+  "logLevel": "0"
+}
